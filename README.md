@@ -1,7 +1,7 @@
 <div align="center">
 
 # ✍️ Paperly
-
+**UNDER PREVIEW**
 **AI-Powered Document Transformation Platform**
 
 *Image → Text → Handwritten Notes — All in One Place*
