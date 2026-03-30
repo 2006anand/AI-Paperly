@@ -2,6 +2,7 @@
 
 # ✍️ Paperly
 **UNDER PREVIEW**
+Not Done Yet
 **AI-Powered Document Transformation Platform**
 
 *Image → Text → Handwritten Notes — All in One Place*
