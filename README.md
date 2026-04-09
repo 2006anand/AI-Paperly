@@ -21,7 +21,7 @@ under preview
 ---
 **UNDER PREVIEW**
 ## 📄 Product Requirements Document (PRD)
-
+**UNDER PREVIEW**
 ### 1. Product Overview
 
 **Paperly** is a full-stack SaaS web application designed to help **students, educators, and professionals** transform documents with AI. It provides two core capabilities:
