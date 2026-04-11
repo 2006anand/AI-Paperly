@@ -6,7 +6,7 @@ Not Done Yet
 **AI-Powered Document Transformation Platform**
 
 *Image → Text → Handwritten Notes — All in One Place*
-
+**UNDER PREVIEW**
 [![Next.js](https://img.shields.io/badge/Next.js-16-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![React](https://img.shields.io/badge/React-19-61DAFB?style=for-the-badge&logo=react)](https://react.dev/)
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-4.x-6DB33F?style=for-the-badge&logo=spring-boot)](https://spring.io/projects/spring-boot)
