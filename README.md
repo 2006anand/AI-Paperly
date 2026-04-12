@@ -4,6 +4,7 @@
 **UNDER PREVIEW**
 Not Done Yet
 **AI-Powered Document Transformation Platform**
+**UNDER PREVIEW**
 
 *Image → Text → Handwritten Notes — All in One Place*
 **UNDER PREVIEW**
